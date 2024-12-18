@@ -1,0 +1,13 @@
+D:\School Works\practice\practice\bin\Debug\practice.exe.config
+D:\School Works\practice\practice\bin\Debug\practice.exe
+D:\School Works\practice\practice\bin\Debug\practice.pdb
+D:\School Works\practice\practice\bin\Debug\System.Data.OleDb.dll
+D:\School Works\practice\practice\bin\Debug\System.Data.OleDb.xml
+D:\School Works\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\School Works\practice\practice\obj\Debug\practice.Form1.resources
+D:\School Works\practice\practice\obj\Debug\practice.Properties.Resources.resources
+D:\School Works\practice\practice\obj\Debug\practice.csproj.GenerateResource.cache
+D:\School Works\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\School Works\practice\practice\obj\Debug\practice.csproj.Up2Date
+D:\School Works\practice\practice\obj\Debug\practice.exe
+D:\School Works\practice\practice\obj\Debug\practice.pdb
